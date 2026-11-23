@@ -24,7 +24,8 @@ The advanced level covers specialized domains of data science: sequential data a
 
 #### Level 3 Task 1 - Time Series Analysis: Analyzing data points collected over time to identify trends, seasonality, and patterns, often for the purpose of forecasting future values.
 
-#### Level 3 Task 2 - NLP (Sentiment Analysis): Applying Natural Language Processing techniques to text data to determine the sentiment (positive, negative, or neutral) expressed in user reviews, comments, or social media posts.
+#### Level 3 Task 2 - NLP (Sentiment Analysis):
+Applying Natural Language Processing techniques to text data to determine the sentiment (positive, negative, or neutral) expressed in user reviews, comments, or social media posts.
 
 ### Technologies & Libraries Used
 The projects in this repository are built using the following data science tools:
